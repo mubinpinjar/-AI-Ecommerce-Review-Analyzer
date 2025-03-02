@@ -1,0 +1,9 @@
+Review ID,Product,Review Text,Rating,Sentiment
+1,Phone,Great battery life!,5,Positive
+2,Laptop,Slow performance 😞,2,Neutral
+3,Headphones,Amazing sound!,5,Positive
+4,Watch,Not worth the price,1,Negative
+5,Tablet,Screen quality is good,4,Positive
+6,TV,Too expensive,3,Neutral
+7,Speaker,Best speaker in this range!,5,Positive
+8,Mouse,Broke within a week 😡,1,Negative
